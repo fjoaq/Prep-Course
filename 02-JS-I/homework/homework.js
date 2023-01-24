@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "Hola";
+const nuevaString = 'Hola';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 38;
@@ -34,7 +34,8 @@ function devolverString(str) {
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código: var suma = (x + y);
+  // Tu código: 
+  var suma = (x + y);
   return suma;
 }
 
@@ -250,12 +251,11 @@ function esVocal(letra){
   if (letra.length > 1) {
     return "Dato incorrecto";
   }
-  if (letra === "a" , letra === "e" , letra === "i" , letra === "o" , letra = "u" ){
+  if (letra === "a" ,  letra === "e" , letra === "i" , letra === "o" , letra = "u" ){
     return "Es vocal"
   }
  return "Dato incorrecto";
 }
-
 
 
 // No modificar nada debajo de esta línea

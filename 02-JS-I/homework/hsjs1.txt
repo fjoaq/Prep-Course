@@ -1,0 +1,5 @@
+Variables: son elementos en los cuales se almacenan datos para ser utilizados luego. por ejemplo var suma = (4 +8)
+Strings: son cadenas de valores, las cuales se escriben entre comillas como por ejemplo "Hola mundo"
+Funciones: las funciones tienen su propia anatomia, generalmente su declaracion se hace de la siguiente forma: function suma (x,y) {aqui se coloca el bloque de codigo}
+estas son declaraciones que tienen diversos usos como por ejemplo mediante la ejecucion de un bloque de codigo, podemos solicitar que la computadora nos devuelva cualquier valor mayor a 80 mediante el uso de control de flujo (if, else, else-if), para realizar la devolucion de dicho valor se utiliza la declaracion "return". Esta por ejemplo si se cumple una condicion devuelve un valor booleano (true), en caso de no cumplirse la sentencia, devuelve el valor booleano contrario (false)
+
